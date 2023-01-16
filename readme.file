@@ -1,0 +1,14 @@
+Base proyecto en Express y node levantando CRUD para APP para hacer listado con Back y front.  
+
+Pasos.
+
+1. npm init -y
+2. npm install express cors
+3. npm install -D nodemon
+
+Package.json: 
+
+"scripts": {
+   "dev": "nodemon index.js",
+   "serve": "node index.js"
+}
